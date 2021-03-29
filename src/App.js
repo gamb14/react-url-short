@@ -1,5 +1,5 @@
 import './styles/App.css';
-import './styles/queries.css'
+import './styles/Queries.css'
 import {useState, useEffect} from 'react';
 import Navbar from './components/Navbar'
 import Tagline from './components/Tagline'
