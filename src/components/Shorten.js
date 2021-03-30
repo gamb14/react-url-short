@@ -1,5 +1,4 @@
 import BouncingBalls from './BouncingBalls'
-import {useRef} from 'react'
 
 const Shorten = ({setInputUrl, setShowError, showError, isLoading, setIsLoading}) => {
 
